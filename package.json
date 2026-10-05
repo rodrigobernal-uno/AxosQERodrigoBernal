@@ -1,0 +1,23 @@
+{
+  "name": "axosqerodrigobernal",
+  "version": "1.0.0",
+  "description": "Personal repo for Playwright mentorship",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigobernal-uno/AxosQERodrigoBernal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rodrigobernal-uno/AxosQERodrigoBernal/issues"
+  },
+  "homepage": "https://github.com/rodrigobernal-uno/AxosQERodrigoBernal#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4"
+  }
+}
